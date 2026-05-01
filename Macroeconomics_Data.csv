@@ -1,0 +1,32 @@
+Country Name,Country Code,Series Name,Series Code,2020 [YR2020],2021 [YR2021],2022 [YR2022],2023 [YR2023],2024 [YR2024],2025 [YR2025]
+Nepal,NPL,"Population, total",SP.POP.TOTL,28966574,29475010,29715436,29694614,29651054,..
+Nepal,NPL,Population growth (annual %),SP.POP.GROW,1.92583106605859,1.74002411752275,0.81238557412485,-0.0700958873206174,-0.146800968936231,..
+Nepal,NPL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..,..,20.3,..,..,..
+Nepal,NPL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.051,2.025,2.002,1.984,1.961,..
+Nepal,NPL,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,70.275,68.777,68.33,67.169,66.489,..
+Nepal,NPL,"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS,..,..,57.2,..,..,..
+Nepal,NPL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,87,90,90,93,97,..
+Nepal,NPL,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,524.455319847069,534.031692327606,429.222646170701,442.648852285229,..,..
+Nepal,NPL,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,257.262042794567,305.716605354841,321.381789585722,350.972738692613,..,..
+Nepal,NPL,GDP (current US$),NY.GDP.MKTP.CD,33433659301.2466,36924841394.2605,41182939600.6209,41047772331.0994,42914268286.7109,..
+Nepal,NPL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,-2.3696206292072,4.838149614115,5.6313145568451,1.98254843628392,3.66537430744967,..
+Nepal,NPL,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,3.21740233241114,6.76271216331268,8.24119195502549,5.74902859335131,2.61300883978525,..
+Nepal,NPL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,6.80529835464112,5.11917148492798,6.70239086589236,7.00596728087278,7.62189857137715,..
+Nepal,NPL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,34.113575769703,37.934633306985,42.2710106140504,34.5641830124417,32.9079241058137,..
+Nepal,NPL,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,..,..,..,..,..,..
+Nepal,NPL,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,15.7736497317824,17.4853032787772,..,13.9448572557035,..,..
+Nepal,NPL,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,2.44880014385554,1.24783157075866,0.617520704475872,..,..,..
+Nepal,NPL,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,32.0395679799268,47.6021002022019,36.4981231203161,32.0650774756611,31.7656587056882,..
+Nepal,NPL,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,7905810313,8820883327.7,9183774214.5,9982808324,10152157325.7,..
+Nepal,NPL,Net migration,SM.POP.NETM,162139,130001,-379321,-409782,-401282,-364699
+Nepal,NPL,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,1760075439.45313,1599871459.96094,1198725219.72656,1173136840.82031,..,..
+Nepal,NPL,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,131.921020414772,129.645418271275,121.1144874334,117.759577544938,99.8471420273964,..
+Nepal,NPL,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.32338446484361,1.21581594858048,1.15743842490309,1.07154635588773,0.979452474186084,..
+Nepal,NPL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,29.6,28.3,27.1,26.1,25.1,..
+Nepal,NPL,"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,8107744661.5632,8225960574.66119,9411659366.20949,10764412527.5866,11254463372.2778,..
+Nepal,NPL,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,..,..,..,..,..,..
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,
+Last Updated: 04/08/2026,,,,,,,,,
