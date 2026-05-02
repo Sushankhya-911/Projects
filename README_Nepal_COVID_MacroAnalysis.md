@@ -123,33 +123,11 @@ The analysis connects public health data with economic indicators to answer:
 
 ---
 
-## ▶️ How to Run
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/yourusername/nepal-covid-macroanalysis.git
-cd nepal-covid-macroanalysis
-
-# 2. Install dependencies
-pip install pandas numpy matplotlib seaborn jupyter
-
-# 3. Place datasets in correct paths:
-#    - estimated-cumulative-excess-deaths-per-100000-people-during-covid-19.csv
-#    - Nepal_covid_span_data/Macroeconomics_Data.csv
 
 # 4. Launch notebook
 jupyter notebook Nepal_covid_macroanalysis.ipynb
 ```
 
----
-
-## 👤 About the Author
-
-**BBIS Student — Kathmandu University**
-- 🎓 Bachelor of Business Information Systems — 2nd Semester
-- 📍 Kathmandu, Nepal
-- 🔗 LinkedIn: [your-linkedin-url]
-- 🐙 GitHub: [your-github-url]
 
 ### Skills demonstrated
 - Real-world dataset filtering and cleaning
@@ -167,7 +145,3 @@ jupyter notebook Nepal_covid_macroanalysis.ipynb
 - How to combine multiple charts into one dashboard using `plt.subplot()`
 - How to explain real-world economic paradoxes using data
 
----
-
-> *"Data doesn't just show numbers — it explains why GDP rose while people were dying.
-> That's the power of connecting datasets."* 🇳🇵
