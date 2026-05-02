@@ -149,17 +149,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 # 4. Launch notebook
 jupyter notebook Teen_Social_media_usage_mental_health.ipynb
-```
-
 ---
-
-## 👤 About the Author
-
-**BBIS Student — Kathmandu University**
-- 🎓 Bachelor of Business Information Systems — 2nd Semester
-- 📍 Kathmandu, Nepal
-- 🔗 LinkedIn: [your-linkedin-url]
-- 🐙 GitHub: [your-github-url]
 
 ### Skills demonstrated
 - Univariate and bivariate EDA
